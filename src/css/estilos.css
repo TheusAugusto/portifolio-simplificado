@@ -100,12 +100,12 @@ body {
 
 .home .container-foto .foto {
     max-width: 450px;
-    border-radius: 50%;
+    border-radius: 1%;
 }
 
 .home .container-foto img {
     width: 100%;
-    border-radius: 50%;
+    border-radius: 1%;
 }
 
 .home .foto.sombra-interna {
